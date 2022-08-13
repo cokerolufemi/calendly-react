@@ -1,0 +1,164 @@
+.can h6{
+	color: blue;
+	font-size: 15px;
+	margin-top: 10px;
+
+}
+
+.del ul{
+	display: flex;
+	list-style: none;
+	justify-content: space-around;
+	margin-right: 850px;
+
+}
+
+.del ul li{
+	margin: 10px;
+    /*margin-top: -2px;
+*/    font-size: 10px;
+}
+
+
+.saq{
+	color: blue;
+	margin-top: 70px;
+} 
+.sax{
+	color: black;
+}
+
+.bes{
+	margin-top: -20px;
+}  
+
+.zas{
+	font-size: 20px;
+	width: 50%;
+}
+
+.sed{
+	background-color:blue;
+    color: white;
+    font-size: 3px;
+    padding: 9px;
+    height: 3vh;
+    width: 12%;
+    border-radius: 10px;
+   
+   
+}
+
+.sen{
+	 font-size: 3px;
+    padding: 9px;
+    height: 3vh;
+    width: 12%;
+    border-radius: 10px;
+
+}
+
+.qas{
+	margin-top: -30px;
+}
+
+
+.boc{
+	text-align: center;
+	margin-top: 50px;
+	margin-right: 200px;
+
+}
+
+.cat{
+	margin-top: -12px;
+	font-weight: bold;
+	color: blue;
+	margin-left: 200px;
+}
+
+.der{
+	font-weight: bold;
+	color: blue;
+	margin-left: 200px;
+}   
+
+.qa{
+	width: 50%;
+	font-size:20px;
+	color: blue;
+
+}
+ .ok{
+ 	font-size: 20px;
+ 	font-weight: bold;
+
+ 	 
+ }
+
+
+.od{
+	font-size: 20px;
+	color: blue;
+}
+h6{
+	margin-top: 
+	30px;
+
+}
+
+.text-center{
+	font-weight: bold;
+	font-size: 20px;
+	margin-top: 10px;
+}
+
+
+.deg{
+	color: blue;
+}
+
+.bax{
+	color: blue;
+}
+
+.den{
+	font-size: 20px;
+	margin-top: 10px;
+}
+
+.ml{
+	font-size: 10px;
+	width: 50%;
+	color: blue;
+}
+
+.kol{
+	width: 100%;
+}
+
+.lad{
+	width: 80%;
+	margin-top: 80px;
+}
+
+.ind{
+	color: blue;
+	margin-top: -12px;
+	margin-bottom: 5px;
+}
+.aq{
+	margin-top: 30px;
+}
+
+.ik{
+	width: 80%;
+	margin-top: 40px;
+}
+
+.fg{
+	width: 100%;
+	height: 28vh;
+}
+
+

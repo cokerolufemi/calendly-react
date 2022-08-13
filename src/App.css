@@ -1,38 +1,139 @@
-.App {
+.container ul {
+  display: flex;
+  margin-left: 250px;
+  margin-top: -40px;
+}
+
+.col6 {
+  margin-top: 70px;
+}
+
+.container ul li {
+  list-style: none;
+}
+
+.container ul li a {
+  margin: 10px;
+  font-size: 20px;
+}
+
+.logo h1 {
+  color: blue;
+  font-size: 30px;
+}
+
+.text {
+  color: blue;
+  margin-top: -15px;
+}
+
+.loy {
+  margin-top: -15px;
+  font-weight: bold;
+}
+
+.ax {
+  font-weight: bold;
+}
+
+.gh {
+  margin-top: 100px;
+}
+
+.bolt {
+  font-size: 20px;
+  max-width: 50%;
+  margin-top: 20px;
+}
+
+input {
+  border-radius: 25px;
+  padding: 10px;
+  width: 50%;
+  height: 6vh;
+  font-size: 10px;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.enc {
+  background-color: black;
+  border-radius: 20px;
+  width: 12%;
+  position: relative;
+  top: 1px;
+  padding: 16px;
   color: white;
+  right: 70px;
+  height: 4vh;
+  font-size: 5px;
 }
 
-.App-link {
-  color: #61dafb;
+.text-center {
+  margin-top: 100px;
+  text-align: center;
+  margin-left: 400px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.span {
+  color: blue;
+}
+
+.dol {
+  font-family: rowdies;
+  margin-right: 20rem;
+}
+
+.Comp {
+  width: 40%;
+  margin-left: 7rem;
+}
+
+.mist {
+  width: 20%;
+  margin-left: 10rem;
+}
+
+.ebay {
+  width: 30%;
+  margin-left: 10rem;
+}
+
+.liveboy {
+  width: 40%;
+  margin-left: 10rem;
+}
+
+.twillo {
+  width: 30%;
+  margin-left: 10rem;
+}
+
+.cont {
+  margin-top: 10rem;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+  margin-left: 200px;
+  color: blue;
+  font-weight: bold;
+}
+
+.cont span {
+  color: black;
+  font-size: 20px;
+}
+
+.cas {
+  display: flex;
+  justify-content: space-between;
+  font-size: 15px;
+  width: 50%;
+  margin-left: 120px;
+  margin-top: -20px;
+}
+
+.uj {
+  margin-left: 20px;
+  font-size: 20px;
 }

@@ -1,0 +1,210 @@
+.can{
+	color: blue;
+
+
+}
+.can h1{
+	font-size: 20px;
+	margin-top: 15px;
+}
+.ant ul{
+	display: flex;
+	list-style: none;
+	margin-top: -10px;
+}
+
+.ant ul li a{
+margin-right: 60px;
+font-size: 20px;
+
+}
+.rap{
+	color: blue;
+}
+.rapt{
+	margin-top: -15px;
+	font-weight: bold;
+	font-size: 30px;
+
+}
+.end{
+	font-weight: bold;
+	margin-top: 1rem;
+	font-size: 30px;
+}
+.riz{
+	font-size: 20px;
+	width:50%;
+	margin-top: -40px;
+}
+
+
+.but{
+	height: 4vh;
+	width: 8%;
+	border-radius: 10px;
+	background-color:black;
+	color: white;
+	font-size: 5px;
+
+
+}
+
+.laptop{
+	margin-top: 10px;
+	width: 50%;
+	height: 40vh;
+	margin-top: 30px;
+}
+
+.resize{
+	width: 60%;
+	margin-top: 50px;
+}
+
+.jad{
+	margin-top: 50px;
+	font-size: 12px;
+
+}
+
+.jax{
+	font-weight: bold;
+	margin-top: -60px;
+	font-size: 20px;
+}
+
+.jay{
+	font-size:20px;
+	width: 40%;
+	margin-top: -50px;
+}
+.dot{
+	margin-top: 100px;
+	font-size: 10px;
+	
+}
+
+.dus{
+	font-weight: bold;
+	margin-top: -50px;
+	font-size: 20px;
+	
+}
+
+
+.rus{
+	font-weight: bold;
+	font-size: 20px;
+    margin-top: -10px;
+}
+
+.tom{
+	font-size: 20px;
+	width: 40%;
+	margin-top: -30px;
+}
+
+body{
+	margin-left: 2rem;
+	margin-right: 2rem;
+}
+
+.org{
+	margin-top: 100px;
+	width: 55%;
+	height: 52vh;
+
+}
+
+.fot{
+	background-color: rgb(20 20 100);
+	width: 77%;
+	color: white;
+	height: 30vh;
+	margin-top: 20px;
+	padding: 1rem;
+
+}
+
+
+input{
+	height: 4vh;
+	width: 5%;
+	border-radius: 9px;
+	font-size: 5px;
+}
+
+.gof{
+	margin-top: -5px;
+}
+.gold{
+	margin-top: -5px;
+
+}
+.lad{
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+.laz{
+	color: blue;
+	margin-top: -10px;
+}
+
+.zy{
+	font-size: 12px;
+}
+
+.enz{
+	font-size: 13px;
+	width: 60%;
+}
+
+.zye{
+	font-size: 8px;
+    margin-left: -20px;
+}
+
+.sly{
+	font-size: 8px;
+	margin-left: -20px;
+
+}  
+
+.gly{
+	font-size: 8px;
+	margin-left: -60px;
+}
+
+.den{
+	font-size: 20px;
+	margin-top: 10px;
+	margin-left: 60px;
+}
+
+.swot{
+	color: blue;
+}
+
+
+
+.vex ul{
+	display: flex;
+	list-style: none;
+
+}
+.vex ul li{
+	margin-right: 50px;
+
+}
+
+.space{
+	/*margin-left: -20rem;*/
+	font-size: 40px;
+}
+
+.po{
+	font-size: 12px;
+	margin-left: 60px;
+}
